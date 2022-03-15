@@ -2,8 +2,6 @@
 
 # # print(name[0])
 
-# # name[0] = "A"
-
 # print(hex(id(name[0])))
 # print(hex(id(name[1])))
 # print(hex(id(name[2])))
